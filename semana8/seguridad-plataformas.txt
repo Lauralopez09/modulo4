@@ -1,0 +1,7 @@
+Escribe 5 prácticas de seguridad que deberían aplicarse en una plataforma
+ digital comunitaria, por ejemplo:
+Control de acceso basado en roles (RBAC)
+ Moderación de contenido y reportes comunitarios
+ Cifrado de datos en tránsito y en reposo
+ Verificación de identidad al registrarse
+Copias de seguridad (Backups) automatizadas y aisladas
